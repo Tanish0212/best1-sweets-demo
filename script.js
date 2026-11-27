@@ -116,21 +116,16 @@ const SHOP = {
   "photos": {
     "hero": {
       "src": "images/hero.webp",
-      "en": "A glass counter filled with Indian sweets",
-      "ar": "واجهة زجاجية مليئة بالحلويات الهندية"
-    },
-    "intro": {
-      "src": "images/photo-1.webp",
       "en": "Kaju katli arranged in a star on a plate",
       "ar": "كاجو كتلي مرتب على شكل نجمة في طبق"
     },
-    "photo-2": {
-      "src": "images/photo-2.webp",
+    "intro": {
+      "src": "images/photo-1.webp",
       "en": "A plate of round orange laddoo",
       "ar": "طبق من اللدّو البرتقالي المستدير"
     },
-    "photo-3": {
-      "src": "images/photo-3.webp",
+    "photo-2": {
+      "src": "images/photo-2.webp",
       "en": "A festive platter of Indian sweets",
       "ar": "طبق احتفالي من الحلويات الهندية"
     }

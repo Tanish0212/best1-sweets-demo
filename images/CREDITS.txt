@@ -1,7 +1,6 @@
 Photos from Unsplash (https://unsplash.com/license): free to use, no attribution required.
 They are stock photos, not photos of this shop. Swap them for the shop's own photos when possible.
 
-images/hero.webp: https://unsplash.com/photos/3zgia9k593w
-images/photo-1.webp: https://unsplash.com/photos/8kiJZwQvxXY
-images/photo-2.webp: https://unsplash.com/photos/RvQ4cSpm6xQ
-images/photo-3.webp: https://unsplash.com/photos/UEtHJ8lSuwY
+images/hero.webp: https://unsplash.com/photos/8kiJZwQvxXY
+images/photo-1.webp: https://unsplash.com/photos/RvQ4cSpm6xQ
+images/photo-2.webp: https://unsplash.com/photos/UEtHJ8lSuwY
